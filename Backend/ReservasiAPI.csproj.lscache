@@ -53,9 +53,7 @@ TemporaryDependencyNodeTargetIdentifier=net6.0
 /warnaserror+:NU1605
 
 [sourceFiles]
-Controllers/
- ReservasiController.cs
- WeatherForecastController.cs
+Controllers/ReservasiController.cs
 Data/AppDbContext.cs
 Migrations/
  20250712022259_Init.cs
